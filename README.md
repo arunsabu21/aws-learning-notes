@@ -96,4 +96,8 @@ E --> F[Review and improve]
 
 **Arun Sabu**
 
-Software Engineer focused on Backend Development, Cloud Computing, and Modern Deployment Practices.
+Software Engineer with a focus on Backend Development, Cloud Computing, and Modern Deployment Practices. Passionate about building scalable applications and continuously learning new technologies.
+
+## Connect
+
+- LinkedIn: https://linkedin.com/in/arunsabu21
