@@ -37,8 +37,6 @@ The goal of this repository is to:
 
 ## Services Covered
 
-## Services Covered
-
 | Service | Status | Notes |
 |----------|----------|----------|
 | Cloud Computing Fundamentals | In Progress | Notes and concepts being documented |
