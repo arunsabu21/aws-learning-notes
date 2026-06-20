@@ -58,8 +58,16 @@ aws-learning-notes/
 │
 ├── README.md
 │
-└── 01-cloud-computing/
-    └── cloud-computing-notes.md
+├── 01-cloud-computing/
+│   ├── 01-cloud-computing-notes.md
+│   ├── 02-cloud-providers.md
+│   ├── 03-types-of-cloud-computing.md
+│   ├── 04-capex-and-opex.md
+│   └── 05-cloud-deployment-models.md
+│
+└── 02-aws-global-infrastructure/
+    ├── 01-aws-intro.md
+    ├── 02-global-infrastructure.md
 ```
 
 ## Hands on Labs
