@@ -37,16 +37,16 @@ The goal of this repository is to:
 
 ## Services Covered
 
-| Service | Status | Notes |
-|----------|----------|----------|
-| Cloud Computing Fundamentals | In Progress | Notes and concepts being documented |
-| AWS IAM | In Progress | Users, Groups, Roles, Policies |
-| Amazon S3 | In Progress | Hands-on completed, notes in progress |
-| Amazon EC2 | In Progress | Hands-on completed, notes in progress |
-| Amazon VPC | Planned | Networking Fundamentals |
-| Amazon RDS | Planned | Managed Relational Databases |
-| CloudWatch | Planned | Monitoring and Logging |
-| AWS Lambda | Planned | Serverless Computing |
+| Service                      | Status      | Notes                                 |
+| ---------------------------- | ----------- | ------------------------------------- |
+| Cloud Computing Fundamentals | In Progress | Notes and concepts being documented   |
+| AWS IAM                      | In Progress | Users, Groups, Roles, Policies        |
+| Amazon S3                    | In Progress | Hands-on completed, notes in progress |
+| Amazon EC2                   | In Progress | Hands-on completed, notes in progress |
+| Amazon VPC                   | Planned     | Networking Fundamentals               |
+| Amazon RDS                   | Planned     | Managed Relational Databases          |
+| CloudWatch                   | Planned     | Monitoring and Logging                |
+| AWS Lambda                   | Planned     | Serverless Computing                  |
 
 ## Repository Structure
 
@@ -65,9 +65,14 @@ aws-learning-notes/
 │   ├── 04-capex-and-opex.md
 │   └── 05-cloud-deployment-models.md
 │
-└── 02-aws-global-infrastructure/
-    ├── 01-aws-intro.md
-    ├── 02-global-infrastructure.md
+├── 02-aws-global-infrastructure/
+│   ├── 01-aws-intro.md
+│   ├── 02-global-infrastructure.md
+│   └── 03-edge-locations.md
+│
+└── 03-iam/
+    ├── 01-iam-intro.md
+    └── 02-iam-policies.md
 ```
 
 ## Hands on Labs
